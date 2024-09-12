@@ -36,6 +36,4 @@ while game_is_on:
         player.increase_move_speed()
         scoreboard.increase_level()
 
-
-
 screen.exitonclick()
